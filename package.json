@@ -3,7 +3,9 @@
     "axios": "^1.5.0",
     "cheerio": "^1.0.0-rc.12",
     "fs": "^0.0.1-security",
-    "puppeteer": "^21.1.1"
+    "prompt": "^1.3.0",
+    "puppeteer": "^21.1.1",
+    "readline-sync": "^1.4.10"
   },
   "name": "cheerio-parser",
   "type": "module",
