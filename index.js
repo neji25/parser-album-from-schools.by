@@ -45,8 +45,6 @@ async function downloadImage(photoLink, outputPath, browser) {
     } catch (error) {
         console.error("Элемент не найден или не удалось подождать его появления.");
     }
-    
-     
 }
 
 async function processAlbumPage(albumTitle, albumLink, pageOfAlbum, browser) {
